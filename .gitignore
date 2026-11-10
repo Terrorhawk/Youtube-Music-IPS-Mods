@@ -1,0 +1,13 @@
+*.ipa
+*.dylib
+*.deb
+*.zip
+*.p12
+*.mobileprovision
+*.ips
+*.sqlite*
+.env
+.env.*
+builds/
+.build-tools/
+.theos/
